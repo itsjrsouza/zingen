@@ -1,7 +1,7 @@
 #hero {
     text-align: center;
 
-    & img [src*="union"] {
+    & img[src*='union'] {
         width: 12.875rem;
     }    
 
@@ -27,7 +27,7 @@
         padding-bottom: 15rem;
 
         & img [src*="union"] {
-            width: 12.875rem;
+            width: 25.75rem;
         }    
 
         & h1 {
