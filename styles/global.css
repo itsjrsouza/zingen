@@ -16,7 +16,7 @@
 }
 
 :root {
-    --brand-gradient: background: linear-gradient(90deg, #FC4A1A 0%, #F7B733 100%);    ;
+    --brand-gradient: linear-gradient(90deg, #FC4A1A 0%, #F7B733 100%);
     --brand-color-primary: #F7B733;
     --brand-color-secondary: #FC4A1A;
 
@@ -57,7 +57,9 @@ body {
     background-color: var(--background-color);
 }
 
-h1, h2, h3 {
+h1, 
+h2, 
+h3 {
     line-height: 1.2;
     color: var(--text-color-primary);
     font-weight: var(--font-weight-bold);
@@ -81,7 +83,7 @@ a {
     color: inherit;
 }
 
-ul[role="list"] {
+ul[role='list'] {
     list-style: none;
 }
 
