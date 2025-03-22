@@ -86,7 +86,7 @@ a {
 a:hover {
     background: var(--brand-gradient);
 
-    --web-kit-background-clip: text;
+    -web-kit-background-clip: text;
     background-clip: text;
     color: transparent;
 }

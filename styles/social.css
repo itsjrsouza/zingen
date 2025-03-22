@@ -6,7 +6,7 @@ a.social {
     height: 1.5rem;
     display: block;
 
-    --web-kit-background-clip: initial;
+    -web-kit-background-clip: initial;
     background-clip: initial;
 
     &[aria-label="tiktok"] {
