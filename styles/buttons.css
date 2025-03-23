@@ -21,7 +21,7 @@
 
 .btn:hover {
     --btn-bg-color: var(--brand-gradient);
-    --btn-color: var(--surface--color);
+    --btn-color: var(--surface-color);
 
     -web-kit-background-clip: initial;
     background-clip: initial;
